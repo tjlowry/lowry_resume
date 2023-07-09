@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Tyler Lowry's Resume
 ---
 # Tyler Lowry
 
@@ -22,7 +22,7 @@ __LDS Business College__, Salt Lake City, UT
 - Full academic scholarship with 4.0 GPA
 
 `Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Tyler Lowry University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
 
