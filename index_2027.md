@@ -3,7 +3,7 @@ layout: resume
 title: Brigham Young's Resume
 ---
 # Tyler Lowry
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Data Science Major
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
