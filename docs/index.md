@@ -6,10 +6,10 @@ title: Tyler Lowry's Resume
 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="tjlowry02@gmail.com">tjlowry02@gmail.com</a>
+| <a href="https://www.etsy.com/shop/TybrDesign?ref=nla_listing_details">Tybr Design </a>
+| <a href="https://www.linkedin.com/in/tylerj-lowry/">LinkedIn</a>
+| <a href="https://github.com/tjlowry">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
