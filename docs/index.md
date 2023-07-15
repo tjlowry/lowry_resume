@@ -56,6 +56,7 @@ I learned how to effectively teach and guide people as they strive to learn new 
 
 `2020-2021`
 __Utah State university__, Logan, UT
+
 - Double major in Accounting and Managment Information Systems
 - Completed a total of 85 credits with a 3.94 GPA
 
@@ -109,7 +110,7 @@ __PIC Business Systems__, San Antonio, TX - Programmer
 __Eagle Scout__, Boy Scouts of America
 
 
-`2023-2025`
+`2021-2022`
 __Proselytizing Missionary__, Washington
 
 
