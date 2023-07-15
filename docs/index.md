@@ -56,7 +56,7 @@ I learned how to effectively teach and guide people as they strive to learn new 
 
 `2020-2021`
 __Utah State university__, Logan, UT
-
+ 
 - Double major in Accounting and Managment Information Systems
 - Completed a total of 85 credits with a 3.94 GPA
 
@@ -115,8 +115,8 @@ __Proselytizing Missionary__, Washington
 
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2023
 
 
